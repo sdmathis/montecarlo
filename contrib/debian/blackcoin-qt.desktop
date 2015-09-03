@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MonteCarlo
+Comment=MonteCarlo P2P Cryptocurrency
+Comment[fr]=MonteCarlo, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MonteCarlo, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/montecarlo-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/montecarlo;
+Categories=Office;

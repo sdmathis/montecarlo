@@ -1,0 +1,2 @@
+debian/bin/montecarlod usr/bin
+src/montecarlod usr/lib/montecarlo
