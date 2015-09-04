@@ -1,7 +1,7 @@
 
 MonteCarlo development tree
 
-MonteCarlo is a PoS-based cryptocurrency.
+MonteCarlo is a POW/POW based cryptocurrency.
 
 Development process
 ===========================
